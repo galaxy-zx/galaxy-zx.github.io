@@ -104,4 +104,5 @@ theme: landscape
 deploy:
   type: git
   repo: https://github.com/galaxy-zx/galaxy-zx.github.io.git
-  branch: master
+  #branch: master
+  branch: gh-pages
